@@ -91,4 +91,4 @@ reserve_df %>%
 ggplot(aes(x = t, y = V)) +
 geom_line(size = 1.1) +
 scale_x_continuous(breaks = seq(30, 110, 10)) +
-scale_y_continuous(breaks = seq(0, 30, 5)) 
+scale_y_continuous(breaks = seq(0, 30, 5)) "# Git diagnostic test" 
